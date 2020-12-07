@@ -22,10 +22,12 @@
 - "Probabilistic vehicle trajectory prediction over occupancy grid map via recurrent neural network" (ITSC 2017) [[paper](https://ieeexplore.ieee.org/abstract/document/8317943)]0
 - "Sequence-to-Sequence Prediction of Vehicle Trajectory via LSTM Encoder-Decoder Architecture"(2018 IEEE Intelligent Vehicles Symposium (IV) 2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8500658)]
 - "Convolutional Social Pooling for Vehicle Trajectory Prediction"(CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Deo_Convolutional_Social_Pooling_CVPR_2018_paper.pdf)]
-- "Vehicle trajectory prediction based on motion model and maneuver recognition"(2013 IROS) [[paper](https://ieeexplore.ieee.org/abstract/document/6696982)]
-- Non-local Social Pooling for Vehicle Trajectory Prediction (2019 IEEE Intelligent Vehicles Symposium (IV)) [[paper](https://ieeexplore.ieee.org/abstract/document/8813829)]
+- "Vehicle trajectory prediction based on motion model and maneuver recognition" (2013 IROS) [[paper](https://ieeexplore.ieee.org/abstract/document/6696982)]
+- "Modeling Vehicle Interactions via Modified LSTM Models for Trajectory Prediction" (IEEE Access 2019) [[paper](https://ieeexplore.ieee.org/abstract/document/8672889)]
+- "Non-local Social Pooling for Vehicle Trajectory Prediction" (IEEE Intelligent Vehicles Symposium (IV) 2019) [[paper](https://ieeexplore.ieee.org/abstract/document/8813829)]
+-"Argoverse: 3D Tracking and Forecasting with Rich Maps" (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.html)]
 - "Deep learning-based vehicle behavior prediction for autonomous driving applications: A review" (2020 IEEE Transactions on Intelligent Transportation Systems) [[paper](https://ieeexplore.ieee.org/abstract/document/9158529)]
-- 
+
 ## Project List
 - "lane-change-prediction-lstm" [[project](https://github.com/chitianhao/lane-change-prediction-lstm)]
 - "DQN" [[project](https://github.com/MaxPRon/DQN_lane_change)]
