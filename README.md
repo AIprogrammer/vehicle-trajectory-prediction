@@ -8,7 +8,8 @@
 - round dataset [[link](https://www.round-dataset.com/)] [[paper]()]
 
 ## 资料
-- [[prediction]()]
+- [[自动驾驶行为预测](https://zhuanlan.zhihu.com/p/158951141)]
+- [[行人的行为意图建模和预测](https://zhuanlan.zhihu.com/p/86184886)]
 
 # Lane change detection 
 ## Paper List
