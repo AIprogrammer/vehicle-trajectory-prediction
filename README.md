@@ -11,10 +11,12 @@
 - [[自动驾驶行为预测](https://zhuanlan.zhihu.com/p/158951141)]
 - [[行人的行为意图建模和预测](https://zhuanlan.zhihu.com/p/86184886)]
 
+
 # Lane change detection 
 ## Paper List
 - "Fast lane changing computations using polynomials" "Proceedings of the 2003 American Control Conference" (2003) [[paper](https://ieeexplore.ieee.org/abstract/document/1238912)]
 - "Lane Change Scheduling for Autonomous Vehicles"  "" [[paper](https://www.sciencedirect.com/science/article/pii/S2405896316302063)]
+- "A survey on motion prediction and risk assessment for intelligent vehicles [[paper](https://hal.inria.fr/hal-01053736/document)]
 
 ## Project List
 - "lane-change-prediction-lstm" [[project](https://github.com/chitianhao/lane-change-prediction-lstm)]
