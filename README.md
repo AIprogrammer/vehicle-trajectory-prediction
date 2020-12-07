@@ -31,3 +31,6 @@
 ## Project List
 - "lane-change-prediction-lstm" [[project](https://github.com/chitianhao/lane-change-prediction-lstm)]
 - "DQN" [[project](https://github.com/MaxPRon/DQN_lane_change)]
+
+## 参考
+- [轨迹预测相关资源列表](https://bbs.cvmart.net/articles/642)
