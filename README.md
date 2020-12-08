@@ -58,7 +58,7 @@
 ## Evaluation Metric
 - Average Displacement Error (ADE)
 - Final Displacement Error (FDE)
-- minADE<sub>k & minFDE<sub>k :For a set of K predicted trajectories
+- minADE<sub>k</sub> & minFDE<sub>k</sub> :For a set of K predicted trajectories
 - Miss Rate (MR)
 
 ## Project List
