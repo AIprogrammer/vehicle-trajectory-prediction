@@ -5,6 +5,7 @@
 ## 开源数据集
 ### motion forecasting dataset
 - [Argoverse-motion-forecasting](https://www.argoverse.org/index.html) [[Download-script](https://github.com/uber-research/LaneGCN)]
+- [nuscenes](https://www.nuscenes.org/)
 - [In-house Pedestrian-at-Intersection dataset (PAID)]()
 - [INTERACTION-dataset](https://github.com/interaction-dataset/interaction-dataset)
 - [Stanford-Drone-dataset-(SDD)](https://cvgl.stanford.edu/projects/uav_data/)
