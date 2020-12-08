@@ -21,6 +21,7 @@
 - Occupancy Grid Maps[[zhihu](https://zhuanlan.zhihu.com/p/21738718)]
 - BEV(Bird's eye view)
 - HD maps
+- geographic coordinate system
 ## Paper List
 - "Fast lane changing computations using polynomials" "Proceedings of the 2003 American Control Conference" (2003) [[paper](https://ieeexplore.ieee.org/abstract/document/1238912)]
 - "A survey on motion prediction and risk assessment for intelligent vehicles"(2014) [[paper](https://hal.inria.fr/hal-01053736/document)]
