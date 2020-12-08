@@ -56,9 +56,10 @@
 ## leaderboard&benchmark
 - [Argoverse-Motion-Forecasting-Competition](https://eval.ai/web/challenges/challenge-page/454/leaderboard/1279#leaderboardrank-10)
 ## Evaluation Metric
-- minADE
-- minFDE
-- 
+- Average Displacement Error (ADE)
+- Final Displacement Error (FDE)
+- minADE<sub>k & minFDE<sub>k :For a set of K predicted trajectories
+- Miss Rate (MR)
 
 ## Project List
 - "lane-change-prediction-lstm" [[project](https://github.com/chitianhao/lane-change-prediction-lstm)]
