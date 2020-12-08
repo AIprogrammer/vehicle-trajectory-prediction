@@ -17,6 +17,10 @@
 - Motion forecasting/prediction
 - Trajectory Prediction
 - Vehicle behavior prediction
+## 其他词汇
+- Occupancy Grid Maps[[zhihu](https://zhuanlan.zhihu.com/p/21738718)]
+- BEV(Bird's eye view)
+- HD maps
 ## Paper List
 - "Fast lane changing computations using polynomials" "Proceedings of the 2003 American Control Conference" (2003) [[paper](https://ieeexplore.ieee.org/abstract/document/1238912)]
 - "A survey on motion prediction and risk assessment for intelligent vehicles"(2014) [[paper](https://hal.inria.fr/hal-01053736/document)]
@@ -34,12 +38,17 @@
 
 ## 近几年进展
 - "TPNet: Trajectory Proposal Network for Motion Prediction" (CVPR 2020) [[paper](https://decisionforce.github.io/TPNet/)]
-- "Learning Lane Graph Representations for Motion Forecasting" (ECCV 2020) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470528.pdf)]
+- "Learning Lane Graph Representations for Motion Forecasting" (ECCV 2020) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470528.pdf)] [[code](https://github.com/uber-research/LaneGCN)]
 - "TNT: Target-driveN Trajectory Prediction" (CoRL（Conference on Robot Learning）2020) [[zhihu](https://zhuanlan.zhihu.com/p/267946225)]
 - "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation" (CVPR 2020) [[code](https://github.com/DQSSSSS/VectorNet)] [[zhihu](https://zhuanlan.zhihu.com/p/141665706)]
+
+## leaderboard&benchmark
+- [Argoverse-Motion-Forecasting-Competition](https://eval.ai/web/challenges/challenge-page/454/leaderboard/1279#leaderboardrank-10)
+
 ## Project List
 - "lane-change-prediction-lstm" [[project](https://github.com/chitianhao/lane-change-prediction-lstm)]
 - "DQN" [[project](https://github.com/MaxPRon/DQN_lane_change)]
+
 
 ## 参考
 - [paper-with-code] (https://paperswithcode.com/task/trajectory-prediction/latest)
