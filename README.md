@@ -23,7 +23,7 @@
 - "Lane Change Scheduling for Autonomous Vehicles"(2016) [[paper](https://www.sciencedirect.com/science/article/pii/S2405896316302063)]
 - "Lane-Change Detection Based on Vehicle-Trajectory Prediction" (IEEE Robotics and Automation Letters 2017) [[paper](https://ieeexplore.ieee.org/abstract/document/7835731)]
 - "Vehicle trajectory prediction by integrating physics-and maneuver-based approaches using interactive multiple models" (IEEE Transactions on Industrial Electronics 2017) [[paper](https://ieeexplore.ieee.org/abstract/document/8186191)]
-- "Probabilistic vehicle trajectory prediction over occupancy grid map via recurrent neural network" (ITSC 2017) [[paper](https://ieeexplore.ieee.org/abstract/document/8317943)]0
+- "Probabilistic vehicle trajectory prediction over occupancy grid map via recurrent neural network" (ITSC 2017) [[paper](https://ieeexplore.ieee.org/abstract/document/8317943)]
 - "Sequence-to-Sequence Prediction of Vehicle Trajectory via LSTM Encoder-Decoder Architecture"(2018 IEEE Intelligent Vehicles Symposium (IV) 2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8500658)]
 - "Convolutional Social Pooling for Vehicle Trajectory Prediction"(CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Deo_Convolutional_Social_Pooling_CVPR_2018_paper.pdf)]
 - "Vehicle trajectory prediction based on motion model and maneuver recognition" (2013 IROS) [[paper](https://ieeexplore.ieee.org/abstract/document/6696982)]
