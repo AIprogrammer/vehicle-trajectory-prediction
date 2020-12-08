@@ -12,7 +12,11 @@
 - [[行人的行为意图建模和预测](https://zhuanlan.zhihu.com/p/86184886)]
 
 
-# Lane change detection 
+# Lane change detection
+## 关键字
+- Motion forecasting/prediction
+- Trajectory Prediction
+- 
 ## Paper List
 - "Fast lane changing computations using polynomials" "Proceedings of the 2003 American Control Conference" (2003) [[paper](https://ieeexplore.ieee.org/abstract/document/1238912)]
 - "A survey on motion prediction and risk assessment for intelligent vehicles"(2014) [[paper](https://hal.inria.fr/hal-01053736/document)]
@@ -28,9 +32,15 @@
 -"Argoverse: 3D Tracking and Forecasting with Rich Maps" (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.html)] [[code](https://github.com/argoai/argoverse-api)] [[website](https://www.argoverse.org/index.html)]
 - "Deep learning-based vehicle behavior prediction for autonomous driving applications: A review" (2020 IEEE Transactions on Intelligent Transportation Systems) [[paper](https://ieeexplore.ieee.org/abstract/document/9158529)]
 
+## 近几年进展
+- "TPNet: Trajectory Proposal Network for Motion Prediction" (CVPR 2020) [[paper](https://decisionforce.github.io/TPNet/)]
+- "Learning Lane Graph Representations for Motion Forecasting" (ECCV 2020) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470528.pdf)]
+- "TNT: Target-driveN Trajectory Prediction" (CoRL（Conference on Robot Learning）2020) [[zhihu](https://zhuanlan.zhihu.com/p/267946225)]
+- "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation" (CVPR 2020) [[code](https://github.com/DQSSSSS/VectorNet)] [[zhihu](https://zhuanlan.zhihu.com/p/141665706)]
 ## Project List
 - "lane-change-prediction-lstm" [[project](https://github.com/chitianhao/lane-change-prediction-lstm)]
 - "DQN" [[project](https://github.com/MaxPRon/DQN_lane_change)]
 
 ## 参考
+- [paper with code] (https://paperswithcode.com/task/trajectory-prediction/latest)
 - [轨迹预测相关资源列表](https://bbs.cvmart.net/articles/642)
