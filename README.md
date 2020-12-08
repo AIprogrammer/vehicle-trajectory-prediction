@@ -42,5 +42,5 @@
 - "DQN" [[project](https://github.com/MaxPRon/DQN_lane_change)]
 
 ## 参考
-- [paper with code] (https://paperswithcode.com/task/trajectory-prediction/latest)
+- [paper-with-code] (https://paperswithcode.com/task/trajectory-prediction/latest)
 - [轨迹预测相关资源列表](https://bbs.cvmart.net/articles/642)
