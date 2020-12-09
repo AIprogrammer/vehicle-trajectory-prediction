@@ -21,7 +21,6 @@
 - [行人的行为意图建模和预测](https://zhuanlan.zhihu.com/p/86184886)
 
 
-
 # Lane change detection
 ## 关键字
 - Motion forecasting/prediction
@@ -34,6 +33,7 @@
 - geographic coordinate system
 ## Paper List
 - "Fast lane changing computations using polynomials" "Proceedings of the 2003 American Control Conference" (2003) [[paper](https://ieeexplore.ieee.org/abstract/document/1238912)]
+- "Vehicle trajectory prediction based on motion model and maneuver recognition" (2013 IROS) [[paper](https://ieeexplore.ieee.org/abstract/document/6696982)]
 - "A survey on motion prediction and risk assessment for intelligent vehicles"(2014) [[paper](https://hal.inria.fr/hal-01053736/document)]
 - "Lane Change Scheduling for Autonomous Vehicles"(2016) [[paper](https://www.sciencedirect.com/science/article/pii/S2405896316302063)]
 - "Lane-Change Detection Based on Vehicle-Trajectory Prediction" (IEEE Robotics and Automation Letters 2017) [[paper](https://ieeexplore.ieee.org/abstract/document/7835731)]
@@ -41,12 +41,13 @@
 - "Probabilistic vehicle trajectory prediction over occupancy grid map via recurrent neural network" (ITSC 2017) [[paper](https://ieeexplore.ieee.org/abstract/document/8317943)]
 - "Sequence-to-Sequence Prediction of Vehicle Trajectory via LSTM Encoder-Decoder Architecture"(2018 IEEE Intelligent Vehicles Symposium (IV) 2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8500658)]
 - "Convolutional Social Pooling for Vehicle Trajectory Prediction"(CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Deo_Convolutional_Social_Pooling_CVPR_2018_paper.pdf)]
-- "Vehicle trajectory prediction based on motion model and maneuver recognition" (2013 IROS) [[paper](https://ieeexplore.ieee.org/abstract/document/6696982)]
 - "Modeling Vehicle Interactions via Modified LSTM Models for Trajectory Prediction" (IEEE Access 2019) [[paper](https://ieeexplore.ieee.org/abstract/document/8672889)]
 - "Non-local Social Pooling for Vehicle Trajectory Prediction" (IEEE Intelligent Vehicles Symposium (IV) 2019) [[paper](https://ieeexplore.ieee.org/abstract/document/8813829)]
 - "Deep learning-based vehicle behavior prediction for autonomous driving applications: A review" (2020 IEEE Transactions on Intelligent Transportation Systems) [[paper](https://ieeexplore.ieee.org/abstract/document/9158529)]
 
 ## 近几年进展
+- "The KITTI dataset" (IJRR 2013) [[paper](http://ww.cvlibs.net/publications/Geiger2013IJRR.pdf)] [[website](http://www.cvlibs.net/datasets/kitti/)]
+- "DESIRE: Distant Future Prediction in Dynamic Scenes with Interacting Agents" (CVPR 2017) [[paper](https://arxiv.org/abs/1704.04394)] [[code](https://github.com/tdavchev/DESIRE)]
 - "Argoverse: 3D Tracking and Forecasting with Rich Maps" (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.html)] [[code1](https://github.com/argoai/argoverse-api)] [[code2](https://github.com/alliecc/argoverse_baselinetracker)] [[website](https://www.argoverse.org/index.html)] [[API](https://argoai.github.io/argoverse-api/)]
 - "INTERACTION Dataset: An INTERnational, Adversarial and Cooperative moTION Dataset in Interactive Driving Scenarios with Semantic Maps" [[paper](https://arxiv.org/abs/1910.03088)] [[website](http://interaction-dataset.com/)] [[code](https://github.com/interaction-dataset/interaction-dataset)]
 - "TPNet: Trajectory Proposal Network for Motion Prediction" (CVPR 2020) [[paper](https://decisionforce.github.io/TPNet/)]
