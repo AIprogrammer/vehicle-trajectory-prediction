@@ -43,6 +43,8 @@
 - "Convolutional Social Pooling for Vehicle Trajectory Prediction"(CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Deo_Convolutional_Social_Pooling_CVPR_2018_paper.pdf)]
 - "Modeling Vehicle Interactions via Modified LSTM Models for Trajectory Prediction" (IEEE Access 2019) [[paper](https://ieeexplore.ieee.org/abstract/document/8672889)]
 - "Non-local Social Pooling for Vehicle Trajectory Prediction" (IEEE Intelligent Vehicles Symposium (IV) 2019) [[paper](https://ieeexplore.ieee.org/abstract/document/8813829)]
+
+## Review
 - "Deep learning-based vehicle behavior prediction for autonomous driving applications: A review" (2020 IEEE Transactions on Intelligent Transportation Systems) [[paper](https://ieeexplore.ieee.org/abstract/document/9158529)]
 
 ## 近几年进展
