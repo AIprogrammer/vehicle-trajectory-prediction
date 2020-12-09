@@ -56,9 +56,17 @@
 - "Learning Lane Graph Representations for Motion Forecasting" (ECCV 2020) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470528.pdf)] [[code](https://github.com/uber-research/LaneGCN)]
 - "TNT: Target-driveN Trajectory Prediction" (CoRL（Conference on Robot Learning）2020) [[zhihu](https://zhuanlan.zhihu.com/p/267946225)]
 - "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation" (CVPR 2020) [[code](https://github.com/DQSSSSS/VectorNet)] [[zhihu](https://zhuanlan.zhihu.com/p/141665706)]
-- "Multi-head attention for multi-modal joint vehicle motion forecasting" (ICRA 2020) [[paper](https://arxiv.org/abs/1910.03650)]  
+- "Multi-head attention for multi-modal joint vehicle motion forecasting" (ICRA 2020) [[paper](https://arxiv.org/abs/1910.03650)]<br>
 ****
-- 
+- "MANTRA: Memory Augmented Networks for Multiple Trajectory Prediction" (CVPR 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Marchetti_MANTRA_Memory_Augmented_Networks_for_Multiple_Trajectory_Prediction_CVPR_2020_paper.pdf)]
+- "Reciprocal Learning Networks for Human Trajectory Prediction" (CVPR 2020 human) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Reciprocal_Learning_Networks_for_Human_Trajectory_Prediction_CVPR_2020_paper.pdf)]
+- "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps" (CVPR 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_MotionNet_Joint_Perception_and_Motion_Prediction_for_Autonomous_Driving_Based_CVPR_2020_paper.pdf)] [[code](https://github.com/pxiangwu/MotionNet)]
+- "STINet: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction" (CVPR 2020 human) [[paper](https://arxiv.org/pdf/2005.04255.pdf)]
+- "Recursive Social Behavior Graph for Trajectory Prediction" (CVPR 2020 human) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Recursive_Social_Behavior_Graph_for_Trajectory_Prediction_CVPR_2020_paper.pdf)]
+- "Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction" (CVPR 2020 human) [[paper]()]
+- "PnPNet: End-to-End Perception and Prediction with Tracking in the Loop" (CVPR 2020) [[paper](https://arxiv.org/pdf/2005.14711.pdf)]
+- "The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction" (CVPR 2020 human) [[paper](https://arxiv.org/pdf/1912.06445.pdf)] [[website](https://next.cs.cmu.edu/multiverse/)] [[code](https://github.com/JunweiLiang/Multiverse)]
+- "Generative Hybrid Representations for Activity Forecasting with No-Regret Learning" (CVPR 2020 reasoning objects) [[paper](https://arxiv.org/pdf/1904.06250.pdf)]
 ## leaderboard&benchmark
 - [Argoverse-Motion-Forecasting-Competition](https://eval.ai/web/challenges/challenge-page/454/leaderboard/1279#leaderboardrank-10)
 - [Forecast-baseline](https://github.com/jagjeet-singh/argoverse-forecasting)
