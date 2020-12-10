@@ -86,9 +86,14 @@
 # Lane Change Detection/Intention prediction
 ## 关键字
 - Manoeuvre Intention
-- 
-
-
+- intent prediction
+- lane change
+## paper list
+- "A survey on motion prediction and risk assessment for intelligent vehicles" (2014) [[paper](https://robomechjournal.springeropen.com/articles/10.1186/s40648-014-0001-z)]
+- "Long short term memory for driver intent prediction" (IEEE Intelligent Vehicles Symposium (IV) 2017) [[paper](https://ieeexplore.ieee.org/document/7995919)]
+- "Generalizable intention prediction of human drivers at intersections" (IEEE Intelligent Vehicles Symposium (IV) 2017) [[paper](https://ieeexplore.ieee.org/document/7995948)]
+- "Convolution neural network-based lane change intention prediction of surrounding vehicles" (ITSC 2017) [[paper](https://ywpkwon.github.io/pdf/17itsc.pdf)]
+- "Predicting Vehicle Behaviors Over An Extended Horizon Using Behavior Interaction Network" (ICRA 2019) [[paper](https://arxiv.org/abs/1903.00848)]
 ## project list
 - "lane-change-prediction-lstm" [[project](https://github.com/chitianhao/lane-change-prediction-lstm)]
 - "DQN" [[project](https://github.com/MaxPRon/DQN_lane_change)]
