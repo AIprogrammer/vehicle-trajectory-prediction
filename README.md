@@ -19,9 +19,10 @@
 ## 资料
 - [自动驾驶行为预测](https://zhuanlan.zhihu.com/p/158951141)
 - [行人的行为意图建模和预测](https://zhuanlan.zhihu.com/p/86184886)
+<br>
+****
 
-
-# Lane change detection
+# vehicle trajectory prediction
 ## 关键字
 - Motion forecasting/prediction
 - Trajectory Prediction
@@ -77,12 +78,17 @@
 - minADE<sub>k</sub> & minFDE<sub>k</sub> :For a set of K predicted trajectories
 - Miss Rate (MR)
 
-## Project List
+<br>
+****
+
+# Lane Change Detection/Intention prediction
+
+## project list
 - "lane-change-prediction-lstm" [[project](https://github.com/chitianhao/lane-change-prediction-lstm)]
 - "DQN" [[project](https://github.com/MaxPRon/DQN_lane_change)]
 
 
-## 参考
+# 参考
 - [paper-with-code](https://paperswithcode.com/task/trajectory-prediction/latest)
 - [轨迹预测相关资源列表](https://bbs.cvmart.net/articles/642)
 
