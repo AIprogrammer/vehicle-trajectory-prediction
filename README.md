@@ -9,6 +9,7 @@
 - [In-house Pedestrian-at-Intersection dataset (PAID)]()
 - [INTERACTION-dataset](https://github.com/interaction-dataset/interaction-dataset)
 - [Stanford-Drone-dataset-(SDD)](https://cvgl.stanford.edu/projects/uav_data/)
+- [kaggle-lyft-prediction](https://self-driving.lyft.com/level5/prediction/)
 
 ### 其他
 - HighD dataset "2018 21st International Conference on Intelligent Transportation Systems (ITSC)" [[link](https://www.highd-dataset.com/)] [[paper](https://ieeexplore.ieee.org/abstract/document/8569552)] [[github](https://github.com/RobertKrajewski/highD-dataset)] [[format](https://www.highd-dataset.com/format)]
