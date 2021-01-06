@@ -95,6 +95,12 @@
 - "Generalizable intention prediction of human drivers at intersections" (IEEE Intelligent Vehicles Symposium (IV) 2017) [[paper](https://ieeexplore.ieee.org/document/7995948)]
 - "Convolution neural network-based lane change intention prediction of surrounding vehicles" (ITSC 2017) [[paper](https://ywpkwon.github.io/pdf/17itsc.pdf)]
 - "Predicting Vehicle Behaviors Over An Extended Horizon Using Behavior Interaction Network" (ICRA 2019) [[paper](https://arxiv.org/abs/1903.00848)]
+-
+- "Continuous Control for Automated Lane Change Behavior Based on Deep Deterministic Policy Gradient Algorithm" [[paper](https://www.sci-hub.ren/https://ieeexplore.ieee.org/abstract/document/8813903/)]
+- "On-Road Vehicle Trajectory Collection and Scene-Based Lane Change Analysis: Part II" [[paper](https://www.sci-hub.ren/10.1109/TITS.2016.2571724]]
+- "An ensemble deep learning approach for driver lane change intention inference" [[paper](https://www.sci-hub.ren/10.1016/j.trc.2020.102615)]
+- "A data-driven lane-changing model based on deep learning" [[paper](https://www.sci-hub.ren/10.1016/j.trc.2019.07.002)]
+- "Simultaneous modeling of car-following and lane-changing behaviors using deep learning" [[paper](https://www.sci-hub.ren/10.1016/j.trc.2019.05.021)]
 ## project list
 - "lane-change-prediction-lstm" [[project](https://github.com/chitianhao/lane-change-prediction-lstm)]
 - "DQN" [[project](https://github.com/MaxPRon/DQN_lane_change)]
