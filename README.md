@@ -116,6 +116,12 @@
 - [LC_NGSIM](https://github.com/donnydcy/LC_NGSIM)
 
 
+# Human trajectory prediction
+## key word
+## paper list
+- Peeking Into the Future: Predicting Future Person Activities and Locations in Videos [CVPR2019] [[paper](https://arxiv.org/abs/1902.03748)] [[code](https://github.com/google/next-prediction)]
+- Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks [CVPR2018] [[paper](https://arxiv.org/abs/1803.10892)] [[code](https://github.com/agrimgupta92/sgan)]
+
 # 参考
 - [paper-with-code](https://paperswithcode.com/task/trajectory-prediction/latest)
 - [轨迹预测相关资源列表](https://bbs.cvmart.net/articles/642)
