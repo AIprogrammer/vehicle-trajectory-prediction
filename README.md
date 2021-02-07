@@ -80,6 +80,15 @@
 - minADE<sub>k</sub> & minFDE<sub>k</sub> :For a set of K predicted trajectories
 - Miss Rate (MR)
 
+## argoverse benchmark
+- TPNet: Trajectory Proposal Network for Motion Prediction [CVPR2020] [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_TPNet_Trajectory_Proposal_Network_for_Motion_Prediction_CVPR_2020_paper.pdf)]
+- Multi-Head Attention for Multi-Modal Joint Vehicle Motion Forecasting [ICRA2020] [[paper](https://arxiv.org/pdf/1910.03650.pdf)]
+- LaneGCN: Learning Lane Graph Representations for Motion Forecasting [ECCV2020] [[paper](https://arxiv.org/pdf/2007.13732.pdf)] [[code](https://github.com/uber-research/LaneGCN)]
+- LaneRCNN: Distributed Representations for Graph-Centric Motion Forecasting [[paper](https://arxiv.org/abs/2101.06653)]
+- TNT [CVPR2020]
+- VectorNet [CVPR2020] [[zhihu](https://zhuanlan.zhihu.com/p/149799591)] [[paper](https://arxiv.org/abs/2005.04259)] [[code](https://github.com/DQSSSSS/VectorNet)]
+
+
 <br>
 
 ****
